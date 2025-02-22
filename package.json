@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@mediapipe/hands": "^0.4.1675469240",
+    "@tensorflow/tfjs": "^4.22.0",
+    "three": "^0.173.0"
+  }
+}
